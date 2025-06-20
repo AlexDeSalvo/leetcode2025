@@ -19,7 +19,7 @@ class list{
     //constructor function
     list();
 
-    void addNode(int addData); //adds data
+    void addNode(int addData); //adds da,ta
     void insertFront(int addData);//inserts data at front
     void insertAtIndex(int addData,int index);//inserts data at given position
     void deleteNode(int delData); //deletes node
